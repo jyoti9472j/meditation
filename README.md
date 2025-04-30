@@ -1,1 +1,1 @@
-# meditation
+# meditation Rule
